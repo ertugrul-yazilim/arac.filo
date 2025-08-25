@@ -269,7 +269,7 @@ SOFTWARE.
 ## 📞 İletişim
 
 - **GitHub**: [https://github.com/ertugrul-yazilim/arac.filo](https://github.com/ertugrul-yazilim/arac.filo)
-- **E-posta**: [ertugrul@yazilim.com](mailto:ertugrul@yazilim.com)
+- **E-posta**: [ertugrul.yazilim@gmail.com](mailto:ertugrul.yazilim@gmail.com)
 ---
 
 ## 🙏 Teşekkürler
